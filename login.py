@@ -112,7 +112,7 @@ def isCustomer(User = Depends(get_current_user)):
         # sys.exit()
         return()
 
-def isAdmin(User = Depends(isCustomer())):
+def isAdmin(User = Depends(isCustomer)):
     return()
 
 @app.get('/customer')
