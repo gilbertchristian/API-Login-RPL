@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "username": "customer",
+            "role": "customer",
+            "hashed_password": "$2b$12$LS3XgMHgN2sYbVCu4FkK.e71s0GYFgZpyySrBRWm9uofp9cjGFy36",
+            "disabled": "False"
+        },
+        {
+            "username": "gibet",
+            "role": "admin",
+            "hashed_password": "$2b$12$rZ9lrR90V2p54mt3suItG.aoCMg4t7n3ZHY1fvKDI1mymSiIRc8E.",
+            "disabled": "False"
+        },
+        {
+            "username": "asdf",
+            "role": "admin",
+            "hashed_password": "$2b$12$fiiyaRbujDMQcyHKwJUom.6Pf0wy35XwUEJ/9ahX2NjOe/rGZBGIa",
+            "disabled": "False"
+        }
+    ]
+}
